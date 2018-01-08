@@ -1,6 +1,5 @@
 
 #Librerias 
-import pandas as pd
 from random import choice
 from sklearn.neural_network import MLPClassifier
 from bokeh.plotting import figure, show
